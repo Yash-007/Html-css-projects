@@ -1,0 +1,65 @@
+body{
+    border: 10px solid #1d1e4c;
+    margin: 0; 
+     background-color: #C0DEFF;
+}
+img{
+    width: 300px;
+    height: 320px;
+   
+}
+h4{
+    text-align: right;
+    font-size: 2rem;
+    margin: 0;
+}
+
+h2{
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 20px; 
+}
+.container{
+    margin: 100px 248px 100px;
+
+}
+
+.image{
+   display: inline-block;
+
+}
+.heading{
+    display: inline-block;
+    font-size: 10 rem;
+    margin-left: 173px;
+}
+.top-heading{
+    margin: 0;
+    font-size: 3rem;
+}
+.about-para{
+    line-height: 30px;
+    font-size:20px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+
+}
+.biographies{
+    margin: 70px auto;
+  
+}
+
+h3{
+    margin-bottom: 20px;
+}
+li{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    font-weight: normal;
+}
+
+.last-para{
+    text-align: right;
+    margin-top: 50px;
+    font-weight: normal;
+}
